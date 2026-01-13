@@ -1,0 +1,7 @@
+============================================================
+HASIL DEKRIPSI
+============================================================
+
+Gambar stego: results/stego_kelompok1.png
+Ciphertext: obqhu ohyp pup
+Plaintext: hujan hari ini
